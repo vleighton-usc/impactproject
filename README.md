@@ -1,28 +1,16 @@
-# Herschel Solar — Student Concept
+# One Bag, Many Lives — Expanded website
 
-A self-contained static website. No installation or build step required.
+Six pages: product, Our World, Newsroom, Field Notes, Care & Repair, Research.
 
-## Publish with GitHub Pages
+## Update your existing GitHub Pages repository
+1. Unzip the download.
+2. Open your impactproject repository and choose Add file > Upload files.
+3. Drag ALL extracted contents into the upload area: the HTML files, assets folder, README and .nojekyll. Do not upload an enclosing folder or the ZIP itself.
+4. Commit changes to main. This replaces index.html and adds the new pages and shared stylesheet.
+5. Keep Settings > Pages set to main / (root). Wait for the Pages deployment to finish, then hard-refresh the site.
 
-1. Unzip this download.
-2. Create a new public GitHub repository.
-3. Choose Add file > Upload files. Upload index.html, the assets folder, .nojekyll, and this README to the repository root. Do not upload the ZIP itself or an enclosing folder.
-4. Commit the files.
-5. Open Settings > Pages.
-6. Under Build and deployment, select Deploy from a branch.
-7. Select main and / (root), then Save.
-8. Once deployment finishes, your site link appears on the Pages settings screen.
+No build step. All links use relative paths for GitHub project sites. Keep assets/site.css and assets/backpack.png together with the HTML files.
 
-If your computer hides .nojekyll, it can be omitted for this simple site.
+Features: Solar/Kinetic selection, color previews, product detail modal, sunlight calculator, expandable press releases, community prompts, repair routing demo and research filters.
 
-## Preview locally
-
-Open index.html in your web browser. Keep the assets folder beside it.
-
-## Edit
-
-All page styling, text and interactions are in index.html.
-The product image is assets/backpack.png.
-
-Independent student concept, not affiliated with or endorsed by Herschel Supply Company.
-Price, colors, capacity and features are illustrative proposals. Product imagery is AI-generated.
+All future announcements and partnerships are fictional. Interview excerpts come from the supplied team presentation. No real purchases, forms or personal-data collection.
